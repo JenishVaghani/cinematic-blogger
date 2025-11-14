@@ -1,3 +1,5 @@
+import blog1 from "../assets/blog-1.webp";
+
 export interface BlogPost {
   id: string;
   title: string;
@@ -50,7 +52,7 @@ Keep your UI clean, focused, and distraction-free.
 ## Conclusion
 Understand the mind → design better experiences.
   `,
-    coverImage: "/src/assets/blog-1.webp",
+    coverImage: blog1,
     category: "Design",
     tags: ["Psychology", "UI/UX", "Behavior Design"],
     author: {
