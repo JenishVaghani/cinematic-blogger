@@ -1,4 +1,12 @@
 import blog1 from "../assets/blog-1.webp";
+import blog2 from "../assets/blog-2.webp";
+import blog3 from "../assets/blog-3.webp";
+import blog4 from "../assets/blog-4.webp";
+import blog5 from "../assets/blog-5.webp";
+import blog6 from "../assets/blog-6.webp";
+import blog7 from "../assets/blog-7.webp";
+import blog8 from "../assets/blog-8.webp";
+import blog9 from "../assets/blog-9.webp";
 
 export interface BlogPost {
   id: string;
@@ -121,7 +129,7 @@ Animals ne preserve karvu planet health mate necessary chhe.
 Animal documentaries (Planet Earth, Nat Geo, Animal Planet) regularly jovathi tame wildlife behavior, survival patterns ane nature ni beauty understand kari shako.
 
     `,
-    coverImage: "/src/assets/blog-4.webp",
+    coverImage: blog4,
     category: "Animals",
     tags: ["Wildlife", "Nature", "Animal Kingdom"],
     author: {
@@ -203,7 +211,7 @@ The challenge is finding the sweet spot between minimal and sterile. Add persona
 
 Minimalism is a design philosophy that respects your users' time and attention. It's not about doing less work - it's about being more thoughtful with every design decision.
     `,
-    coverImage: "/src/assets/blog-2.webp",
+    coverImage: blog2,
     category: "Design",
     tags: ["UI/UX", "Minimalism", "Design Systems"],
     author: {
@@ -279,7 +287,7 @@ The barrier to entry has never been lower. With tools like R3F, Drei (helper lib
 
 The future of the web is spatial, interactive, and incredibly exciting.
     `,
-    coverImage: "/src/assets/blog-3.webp",
+    coverImage: blog3,
     category: "Development",
     tags: ["React", "Three.js", "WebGL", "3D"],
     author: {
@@ -323,7 +331,7 @@ Bowlers pan yorkers, slower balls, cutters, ane variations par heavily dependent
 
 Cricket ma safal thava mate “Aggression + Smartness + Fitness” ni perfect combination jaruri chhe.
   `,
-    coverImage: "/src/assets/blog-5.webp",
+    coverImage: blog5,
     category: "Sports",
     tags: ["Cricket", "T20 Era", "Sports Analysis"],
     author: {
@@ -356,7 +364,7 @@ Frameworks that blur the line between client, server, and AI-driven UI generatio
 
 Web development keeps getting smarter.
   `,
-    coverImage: "/src/assets/blog-6.webp",
+    coverImage: blog6,
     category: "Technology",
     tags: ["JavaScript", "Frontend", "Frameworks"],
     author: {
@@ -392,7 +400,7 @@ Creativity is not magic — it's a system.
 
 Creativity grows with practice.
   `,
-    coverImage: "/src/assets/blog-7.webp",
+    coverImage: blog7,
     category: "Creative",
     tags: ["Creativity", "Process", "Inspiration"],
     author: {
@@ -422,7 +430,7 @@ Cinematic design makes websites feel like films.
 
 Blend art + tech to build unforgettable web moments.
   `,
-    coverImage: "/src/assets/blog-8.webp",
+    coverImage: blog8,
     category: "Creative",
     tags: ["Cinematic", "3D", "Experience Design"],
     author: {
@@ -512,7 +520,7 @@ Small steps thi Earth protect thai shake chhe:
 Earth documentaries (Our Planet, Planet Earth II, One Strange Rock) joi ne tame planet ni beauty ane danger banne samjhi shako.
 
     `,
-    coverImage: "/src/assets/blog-9.webp",
+    coverImage: blog9,
     category: "Science",
     tags: ["Earth", "Planet", "Solar System", "Environment"],
     author: {
