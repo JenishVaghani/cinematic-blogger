@@ -50,7 +50,7 @@ Keep your UI clean, focused, and distraction-free.
 ## Conclusion
 Understand the mind → design better experiences.
   `,
-    coverImage: "/blog-1.webp",
+    coverImage: "/src/assets/blog-1.webp",
     category: "Design",
     tags: ["Psychology", "UI/UX", "Behavior Design"],
     author: {
